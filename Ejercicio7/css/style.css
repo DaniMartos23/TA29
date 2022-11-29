@@ -1,0 +1,61 @@
+body{
+    background-image: url(/Ejercicio7/img/ac.jpg);
+    background-size: 600px;
+    background-repeat: no-repeat;
+}
+table{
+    padding-left: 10pt;
+}
+table td{
+    padding: 45pt;
+    border: 1pt solid black;
+}
+.rowA{
+    background-image: url(/Ejercicio7/img/back_mantel.jpg);
+}
+.rowB{
+    background-image: url(/Ejercicio7/img/back_mantel.jpg);
+    background-origin:content-box;
+    
+}
+.rowC{
+    background-image: url(/Ejercicio7/img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.rowD{
+    background-image: url(/Ejercicio7/img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-clip: border-box;
+    padding:0;
+    text-align: center;
+    border: 10pt solid white;
+
+    
+}
+.rowE{
+    
+}
+.rowF{
+    
+}
+.rowG{
+    
+}
+.rowH{
+    
+}
+.rowI{
+    
+}
+.rowJ{
+    
+}
+.rowK{
+    
+}
+.rowL{
+    
+}
