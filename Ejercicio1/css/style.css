@@ -1,0 +1,28 @@
+table tbody tr:nth-child(odd) {
+	background: #4ec282;
+}
+table tbody tr:nth-child(even) {
+	background: #a3f3ae;
+}
+table {
+    border-top:2px solid white;
+    border-left:2px solid white;
+    border-bottom:2px solid gray;
+    border-right:2px solid gray;
+    background-color: rgb(95, 210, 248);
+    outline: 2px solid rgb(95, 210, 248);
+
+}
+
+
+table td{
+    padding:3px ;
+}
+
+table th{
+    padding:3px;
+    background: darkgreen;
+    color:#c3eec8;
+    text-align: center;
+
+}
